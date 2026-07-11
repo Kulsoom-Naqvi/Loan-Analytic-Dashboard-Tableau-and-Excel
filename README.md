@@ -31,7 +31,7 @@ This dashboard provides immediate answers through interactive analytics.
 
 ---
 
-# 💡 Dashboard Highlights
+# 💡 Dashboard Highlights - Tableau
 
 Rather than presenting static reports, this dashboard allows users to interact with the data from multiple perspectives.
 
