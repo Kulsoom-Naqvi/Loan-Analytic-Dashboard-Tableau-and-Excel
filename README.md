@@ -1,5 +1,5 @@
 
-# 📊 Loan Analytics Dashboard | Tableau
+# 📊 Loan Analytics Dashboard | Tableau | Excel
 
 > **An interactive Tableau dashboard that transforms raw banking loan data into actionable insights by analyzing lending performance, borrower demographics, portfolio health, repayment behavior, and credit risk—all within a single dynamic dashboard.**
 
