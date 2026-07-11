@@ -187,9 +187,29 @@ Together, these insights help financial institutions improve lending strategies,
 
 ---
 
+## 📊 Alternative Implementation in Microsoft Excel
+
+This project has also been developed in Microsoft Excel, recreating the same analytical dashboard using Excel's data visualization and dashboarding capabilities.
+
+The Excel version presents the same key performance indicators, business metrics, and analytical insights as the Tableau dashboard, while demonstrating how similar business intelligence solutions can be built using spreadsheet-based tools.
+
+**The Excel dashboard includes:**
+- Interactive dashboard layout
+- KPI summary cards
+- Charts and visualizations
+- Business insights
+- Dynamic filtering and analysis
+- Clean and user-friendly dashboard design
+
+Having both implementations showcases the ability to solve the same business problem using different Business Intelligence platforms, highlighting adaptability across industry-standard analytics tools.
+
+📁 The repository includes both the Tableau Workbook (`.twbx`) and the Microsoft Excel Dashboard (`.xlsx`). Feel free to explore both versions to compare how the same loan analytics solution has been implemented using two different technologies while delivering the same business insights.
+
 ## 🌟 Project Summary
 
-> **This dashboard is more than a collection of charts—it is a decision-support system for loan portfolio analysis. It empowers stakeholders to explore lending performance from multiple dimensions, identify opportunities and risks, and make informed, data-driven decisions through an intuitive and interactive Tableau experience.**
+This project demonstrates the design and development of an interactive Loan Analytics Dashboard using Tableau, with an equivalent implementation in Microsoft Excel. Both dashboards analyze the same banking dataset and deliver consistent business insights through KPI tracking, interactive visualizations, demographic analysis, portfolio monitoring, and lending performance evaluation. Together, they showcase how modern Business Intelligence solutions can be built across multiple analytics platforms while maintaining the same analytical objectives and user experience.
 
 ---
+
+
 
